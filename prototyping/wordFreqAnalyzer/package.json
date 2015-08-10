@@ -1,0 +1,20 @@
+{
+  "name": "penn-apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "natural": "^0.2.1",
+    "node-wikipedia": "0.0.1",
+    "pos": "^0.2.3",
+    "ramda": "^0.17.1",
+    "striptags": "^2.0.2"
+  }
+}
